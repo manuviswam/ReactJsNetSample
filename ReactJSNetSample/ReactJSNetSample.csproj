@@ -171,6 +171,11 @@
     <None Include="ClearScript.V8\v8-x64.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <Content Include="Assets\js\JSXTransformer.js" />
+    <Content Include="Assets\js\react-with-addons.js" />
+    <Content Include="Assets\js\react-with-addons.min.js" />
+    <Content Include="Assets\js\react.js" />
+    <Content Include="Assets\js\react.min.js" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
